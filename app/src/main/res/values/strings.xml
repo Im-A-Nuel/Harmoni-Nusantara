@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Harmoni-Nusantara</string>
+    <string name="instrument_name">Nama Instrumen</string>
+    <string name="description">Deskripsi</string>
+    <string name="myname">Imanuel P. A Faot</string>
+    <string name="myemail">imanuel.putra@ti.ukdw.ac.id</string>
+    <string name="about">About</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="btn_share">Share</string>
+
+    <string-array name="instrument_data">
+        <item>Sasando</item>
+        <item>Angklung</item>
+        <item>Tanjidor</item>
+        <item>Kolintang</item>
+        <item>Gamelan</item>
+        <item>Gondang</item>
+        <item>Talempong</item>
+        <item>Tifa</item>
+        <item>Saluang</item>
+        <item>Sampe</item>
+    </string-array>
+
+    <string-array name="instrument_desc">
+        <item>Sasando berasal dari Pulau Rote, Nusa Tenggara Timur, dan merupakan alat musik petik yang unik dengan bentuk menyerupai kipas.\n\nAlat musik ini terbuat dari bambu dengan senar-senar yang direntangkan di bagian tengah. Di sekeliling tubuh Sasando, terdapat lembaran lontar yang membentuk resonator, membuat suaranya terdengar lembut dan harmonis.\n\nSasando dimainkan dengan cara dipetik menggunakan kedua tangan secara bersamaan, mirip seperti harpa. Sasando biasa dimainkan dalam upacara adat dan perayaan di Nusa Tenggara Timur.\n</item>
+        <item>Angklung berasal dari Jawa Barat dan merupakan alat musik tradisional berbahan dasar bambu. Setiap Angklung hanya menghasilkan satu nada, dan alat musik ini dimainkan dengan cara digoyangkan agar bilah-bilah bambu bergetar dan menghasilkan suara.\n\nAngklung biasanya dimainkan dalam kelompok, dengan setiap orang memegang angklung yang berbeda nadanya, sehingga tercipta harmoni melodi yang khas. Angklung diakui oleh UNESCO sebagai warisan budaya takbenda dunia dan sering digunakan dalam berbagai pertunjukan budaya.\n</item>
+        <item>Tanjidor berasal dari masyarakat Betawi di Jakarta dan merupakan musik orkes yang didominasi oleh alat musik tiup seperti trompet, klarinet, dan trombon, serta dilengkapi oleh alat perkusi.\n\nAlat musik ini berkembang pada masa penjajahan Belanda dan awalnya dimainkan untuk menghibur orang-orang Belanda. Kini, Tanjidor sering dimainkan pada acara-acara besar, seperti pernikahan, festival, dan perayaan adat Betawi.\n\nCara memainkan Tanjidor sangat mirip dengan orkes tiup lainnya, di mana pemain meniup alat musik dan menghasilkan nada yang khas.\n</item>
+        <item>Kolintang berasal dari Minahasa, Sulawesi Utara. Alat musik ini terbuat dari bilah-bilah kayu yang disusun di atas resonator dan dimainkan dengan cara dipukul menggunakan stik khusus.\n\nKolintang dimainkan dalam ansambel untuk menghasilkan harmoni yang beragam. Suara yang dihasilkan Kolintang berkarakter ceria dan sering digunakan untuk mengiringi tarian dan upacara adat di Minahasa. Alat musik ini membutuhkan keahlian dan ketepatan dalam memukul setiap bilah agar nada yang dihasilkan pas.\n</item>
+        <item>Gamelan adalah ansambel musik tradisional yang berasal dari Jawa, Bali, dan Lombok. Gamelan terdiri dari berbagai alat musik seperti gong, saron, kenong, kendang, dan bonang, yang dimainkan bersama-sama untuk menciptakan harmoni khas.\n\nGamelan dimainkan dengan cara dipukul menggunakan pemukul khusus. Setiap pemain memainkan instrumen yang berbeda untuk menghasilkan nada dan irama yang harmonis. Gamelan sering digunakan dalam upacara keagamaan, pertunjukan wayang, dan tari tradisional.\n</item>
+        <item>Gondang adalah alat musik tradisional yang berasal dari suku Batak di Sumatera Utara. Gondang adalah sejenis alat musik perkusi yang dimainkan dalam berbagai upacara adat Batak, seperti pernikahan dan kematian.\n\nAlat musik ini dimainkan dengan cara dipukul menggunakan tangan atau stik. Gondang biasanya dimainkan bersama alat musik lain dalam ensambel yang disebut “Gondang Sabangunan”, yang memiliki makna sakral dalam budaya Batak.\n</item>
+        <item>Talempong berasal dari Minangkabau, Sumatera Barat. Alat musik ini berbentuk seperti bonang kecil dari logam dan dimainkan dengan cara dipukul menggunakan pemukul kecil.\n\nTalempong biasanya dimainkan dalam ensambel musik Minangkabau dan digunakan untuk mengiringi tari-tarian tradisional seperti Tari Piring dan Tari Indang. Suara yang dihasilkan Talempong bernada ceria dan memiliki irama yang cepat.\n</item>
+        <item>Tifa adalah alat musik perkusi yang berasal dari Papua dan Maluku. Tifa terbuat dari kayu dan kulit hewan, mirip seperti gendang. Alat musik ini dimainkan dengan cara dipukul menggunakan tangan, menghasilkan suara yang kuat dan bergema.\n\nTifa biasa digunakan dalam upacara adat, tarian perang, dan pertunjukan musik tradisional di Papua dan Maluku. Setiap suku di Papua memiliki variasi Tifa yang berbeda dengan ukiran-ukiran yang khas.\n</item>
+        <item>Saluang adalah alat musik tiup tradisional dari Minangkabau, Sumatera Barat, yang terbuat dari bambu. Alat musik ini sederhana, hanya berupa sebatang bambu panjang yang memiliki beberapa lubang untuk jari.\n\nSaluang dimainkan dengan cara ditiup sambil mengatur pergerakan jari-jari untuk menghasilkan nada. Biasanya Saluang dimainkan untuk mengiringi nyanyian atau pantun dalam upacara adat Minangkabau.\n</item>
+        <item>Sampe (juga dikenal sebagai Sape) adalah alat musik tradisional dari suku Dayak di Kalimantan.\n\nSampe merupakan alat musik petik yang terbuat dari kayu ringan seperti kayu meranti, dengan senar-senar yang terbuat dari serat alam atau kini lebih sering menggunakan senar gitar.\n\nBentuknya menyerupai gitar atau kecapi, namun memiliki desain dan ukiran khas suku Dayak yang memberikan kesan artistik. \n\nAlat musik ini dimainkan dengan cara dipetik, mirip dengan kecapi atau gitar. Sampe adalah simbol penting dalam budaya Dayak, mencerminkan hubungan erat antara masyarakat Dayak dengan alam sekitarnya.\n</item>
+    </string-array>
+
+    <integer-array name="instrument_photo">
+        <item>@drawable/sasando</item>
+        <item>@drawable/angklung</item>
+        <item>@drawable/tanjidor</item>
+        <item>@drawable/kolintang</item>
+        <item>@drawable/gamelanjawa</item>
+        <item>@drawable/gondang</item>
+        <item>@drawable/talempong</item>
+        <item>@drawable/tifa</item>
+        <item>@drawable/saluang</item>
+        <item>@drawable/sampe</item>
+    </integer-array>
+
+</resources>

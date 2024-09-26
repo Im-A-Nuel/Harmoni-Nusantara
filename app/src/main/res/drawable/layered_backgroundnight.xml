@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/backgroundnight"
+            android:gravity="center"
+            />
+    </item>
+</layer-list>

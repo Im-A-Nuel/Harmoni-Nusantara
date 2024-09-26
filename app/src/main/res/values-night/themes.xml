@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HarmoniNusantara" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#0B415D</item>
+        <item name="colorOnPrimary">#A3C931</item>
+        <item name="android:windowBackground">@color/back2</item>
+        <item name="android:statusBarColor">@color/back3</item>
+    </style>
+
+    <style name="Theme.MyApp.Splash" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background_night</item>
+        <item name="android:statusBarColor">@color/back3</item>
+    </style>
+
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="colorPrimary">#0B415D</item>
+        <item name="colorOnPrimary">#A3C931</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara.Detail" parent="Theme.AppCompat.DayNight">
+        <item name="android:windowBackground">@drawable/layered_backgroundnight</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorPrimary">#0B415D</item>
+        <item name="colorOnPrimary">#A3C931</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara.About" parent="Theme.AppCompat.DayNight">
+        <item name="android:windowBackground">@drawable/layered_backgroundnight</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorPrimary">#0B415D</item>
+        <item name="colorOnPrimary">#A3C931</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara.Main" parent="Theme.AppCompat.DayNight">
+        <item name="android:windowBackground">@color/back2</item>
+        <item name="android:statusBarColor">@color/back3</item>
+        <item name="colorPrimary">#0B415D</item>
+        <item name="colorOnPrimary">#A3C931</item>
+    </style>
+</resources>
+

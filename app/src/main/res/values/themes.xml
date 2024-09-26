@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HarmoniNusantara" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#A3C931</item>
+        <item name="colorOnPrimary">#0B415D</item>
+    </style>
+
+    <style name="Theme.MyApp.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:statusBarColor">@color/back3</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara.Detail" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">@drawable/layered_background</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="colorPrimary">#A3C931</item>
+        <item name="colorOnPrimary">#0B415D</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara.About" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">@drawable/layered_background</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="colorPrimary">#A3C931</item>
+        <item name="colorOnPrimary">#0B415D</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara.Main" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#A3C931</item>
+        <item name="colorOnPrimary">#0B415D</item>
+        <item name="android:windowBackground">@color/back1</item>
+        <item name="android:statusBarColor">@color/back3</item>
+    </style>
+
+    <style name="Theme.HarmoniNusantara" parent="Base.Theme.HarmoniNusantara" />
+
+</resources>
